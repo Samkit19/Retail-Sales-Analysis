@@ -27,13 +27,16 @@ This project demonstrates an end-to-end Business Intelligence workflow—from cl
 
 ### Excel Dashboard
 
-> *(Insert Excel Dashboard Screenshot Here)*
+
+<img width="636" height="548" alt="Excel_Dashboard" src="https://github.com/user-attachments/assets/6c9bfa23-053a-4018-86a9-0f03d4814dde" />
+
 
 ---
 
 ### Power BI Dashboard
 
-> *(Insert Power BI Dashboard Screenshot Here)*
+<img width="963" height="542" alt="PowerBI_Dashboard" src="https://github.com/user-attachments/assets/e0a48fae-2577-45c1-a95f-dc7cdb1a9d2e" />
+
 
 ---
 
