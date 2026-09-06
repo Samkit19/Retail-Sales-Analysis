@@ -85,10 +85,10 @@ Business Recommendations
 
 | KPI | Value |
 |------|-------:|
-| Total Sales | ₹657,965 |
-| Total Profit | ₹125,701 |
-| Quantity Sold | 2,945 |
-| Profit Margin | 19.10% |
+| Total Sales | ₹6,396,128 |
+| Total Profit | ₹1,398,824 |
+| Quantity Sold | 18,604 |
+| Profit Margin | 21.87% |
 
 ---
 
